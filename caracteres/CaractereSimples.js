@@ -9,3 +9,5 @@ console.log(texto.match(/A/gi))
 console.log(texto.match(/e/))
 console.log(texto.replace(/a.b/, 'aqui'))
 console.log(texto.replace(/[1-5]/, 'olha aqui de novo'))
+
+
